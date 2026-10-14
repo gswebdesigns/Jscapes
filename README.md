@@ -1,2 +1,0 @@
-# Jscapes
-portal mockup
